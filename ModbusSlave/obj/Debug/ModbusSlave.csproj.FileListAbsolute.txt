@@ -1,0 +1,13 @@
+E:\Project\ModbusSlave\ModbusSlave\bin\Debug\ModbusSlave.exe.config
+E:\Project\ModbusSlave\ModbusSlave\bin\Debug\ModbusSlave.exe
+E:\Project\ModbusSlave\ModbusSlave\bin\Debug\ModbusSlave.pdb
+E:\Project\ModbusSlave\ModbusSlave\bin\Debug\EasyModbus.dll
+E:\Project\ModbusSlave\ModbusSlave\bin\Debug\EasyModbus.xml
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.csproj.AssemblyReference.cache
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.Form1.resources
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.Properties.Resources.resources
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.csproj.GenerateResource.cache
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.csproj.CoreCompileInputs.cache
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.csproj.CopyComplete
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.exe
+E:\Project\ModbusSlave\ModbusSlave\obj\Debug\ModbusSlave.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusSlave", "ModbusSlave\ModbusSlave.csproj", "{2D4EDF00-2815-4585-9581-1B3770C569C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusMonitor", "ModbusMonitor\ModbusMonitor.csproj", "{1A1C1C19-A685-4343-B3FB-D33413514D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4EDF00-2815-4585-9581-1B3770C569C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4EDF00-2815-4585-9581-1B3770C569C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4EDF00-2815-4585-9581-1B3770C569C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4EDF00-2815-4585-9581-1B3770C569C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1C1C19-A685-4343-B3FB-D33413514D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1C1C19-A685-4343-B3FB-D33413514D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1C1C19-A685-4343-B3FB-D33413514D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1C1C19-A685-4343-B3FB-D33413514D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D511EA-AE67-4CDD-9D04-CD93BC376871}
+	EndGlobalSection
+EndGlobal
